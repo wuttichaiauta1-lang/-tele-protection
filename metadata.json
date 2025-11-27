@@ -1,0 +1,7 @@
+{
+  "name": "TeleGuard Inspect (ระบบตรวจงานติดตั้ง)",
+  "description": "แอปพลิเคชันสำหรับวิศวกรเพื่อสร้างและตรวจสอบ Checklist งานติดตั้งระบบสื่อสาร Multiplexer และ Tele-protection รองรับการสร้างหัวข้อตรวจสอบอัตโนมัติด้วย AI",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
